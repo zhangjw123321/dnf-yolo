@@ -1,3 +1,3 @@
 # dnf-yolo
 
-python + opencv+yolov8 +orc +卡密验证登录。
+python + opencv+yolo11n +orc +卡密验证登录。
